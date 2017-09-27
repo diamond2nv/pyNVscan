@@ -23,3 +23,9 @@ test_scipy2.ipynb
 
 ![Scipy_out](index_TP-21.png "OpenCV2")
 
+```python
+    #创建浮点灰度图
+    img = Z0 / Z0.max()
+    #圈定坐标和筛选
+    lm = morph.local_maxima(img)
+```
