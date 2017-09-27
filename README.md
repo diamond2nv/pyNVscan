@@ -17,7 +17,7 @@ try improving the scan program of detection nitrogen-vacancy centers in diamond,
 ![OpenCV_out](mpl_Hough_screenshot_Z39_2.png "OpenCV2")
 
 ### Scipy
-二维局域极值识别
+二维局域极值识别（Anaconda4，Python2.7.13, Scipy～0.19）
 
 test_scipy2.ipynb
 
